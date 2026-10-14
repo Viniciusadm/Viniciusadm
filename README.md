@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>4+</b> years of experience &nbsp;·&nbsp; <b>12</b> projects of my own &nbsp;·&nbsp; <b>6</b> in production
+  <b>4+</b> years of experience &nbsp;·&nbsp; <b>12</b> projects of my own &nbsp;·&nbsp; <b>7</b> in production
 </p>
 
 ---
@@ -91,7 +91,7 @@ Track dramas by status, log episodes, build lists and earn achievements. A Rust 
 
 - **Desktop and CLI:** [dbusers](https://github.com/Viniciusadm/dbusers) (MySQL users and permissions without SQL, Rust and egui) · [pilha](https://github.com/Viniciusadm/pilha) (to-do list organized by an LLM, Rust TUI) · [caixa](https://github.com/Viniciusadm/caixa) (Google Drive upload from the terminal) · [scripts](https://github.com/Viniciusadm/scripts)
 - **Android, Kotlin and Compose:** [calendar](https://github.com/Viniciusadm/calendar) · [exercises](https://github.com/Viniciusadm/exercises) · [files](https://github.com/Viniciusadm/files) · [oklo](https://github.com/Viniciusadm/oklo) · [finances](https://github.com/Viniciusadm/finances) · [applock](https://github.com/Viniciusadm/applock) · [books](https://github.com/Viniciusadm/books)
-- **Web:** [utilitools](https://github.com/Viniciusadm/utilitools) · [blackpink-views](https://github.com/Viniciusadm/blackpink-views)
+- **Web:** [utilitools](https://github.com/Viniciusadm/utilitools) ([live](https://www.utilitools.com.br/)) · [blackpink-views](https://github.com/Viniciusadm/blackpink-views)
 - **Building blocks:** [rust-backend-template](https://github.com/Viniciusadm/rust-backend-template) (cargo-generate template for hexagonal Axum backends) · [select](https://github.com/Viniciusadm/select) (the `min-select` npm package)
 
 ## Stack
