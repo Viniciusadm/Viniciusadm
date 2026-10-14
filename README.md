@@ -50,14 +50,15 @@ Track dramas by status, log episodes, build lists and earn achievements. A Rust 
 
 <br clear="left">
 
-## Open source
+<img align="left" src="assets/utilitools.png" width="64" alt="">
 
-<img align="left" src="assets/rodada.png" width="40" alt="">
-
-**Rodada** · [web](https://github.com/Viniciusadm/rodada-web) · [api](https://github.com/Viniciusadm/rodada-api)<br>
-<sub>Live quiz games: the host runs the match on a big screen and players join from their phones. Rust, Axum, WebSocket, React.</sub>
+**[UtiliTools](https://www.utilitools.com.br/)** · The tools you look for every week · [code](https://github.com/Viniciusadm/utilitools)<br>
+Free online utilities for everyday Brazilian paperwork: generate and validate CPF, CNPJ, CNH and RG, write numbers out in words and convert formats. Everything runs in the browser, with no sign-up and no data sent to a server.<br>
+<sub>Next.js · TypeScript · Tailwind CSS · Radix UI</sub>
 
 <br clear="left">
+
+## Open source
 
 <img align="left" src="assets/pitaco.png" width="40" alt="">
 
@@ -91,7 +92,7 @@ Track dramas by status, log episodes, build lists and earn achievements. A Rust 
 
 - **Desktop and CLI:** [dbusers](https://github.com/Viniciusadm/dbusers) (MySQL users and permissions without SQL, Rust and egui) · [pilha](https://github.com/Viniciusadm/pilha) (to-do list organized by an LLM, Rust TUI) · [caixa](https://github.com/Viniciusadm/caixa) (Google Drive upload from the terminal) · [scripts](https://github.com/Viniciusadm/scripts)
 - **Android, Kotlin and Compose:** [calendar](https://github.com/Viniciusadm/calendar) · [exercises](https://github.com/Viniciusadm/exercises) · [files](https://github.com/Viniciusadm/files) · [oklo](https://github.com/Viniciusadm/oklo) · [finances](https://github.com/Viniciusadm/finances) · [applock](https://github.com/Viniciusadm/applock) · [books](https://github.com/Viniciusadm/books)
-- **Web:** [utilitools](https://github.com/Viniciusadm/utilitools) ([live](https://www.utilitools.com.br/)) · [blackpink-views](https://github.com/Viniciusadm/blackpink-views)
+- **Web:** Rodada, live quiz games ([web](https://github.com/Viniciusadm/rodada-web) · [api](https://github.com/Viniciusadm/rodada-api)) · [blackpink-views](https://github.com/Viniciusadm/blackpink-views)
 - **Building blocks:** [rust-backend-template](https://github.com/Viniciusadm/rust-backend-template) (cargo-generate template for hexagonal Axum backends) · [select](https://github.com/Viniciusadm/select) (the `min-select` npm package)
 
 ## Stack
